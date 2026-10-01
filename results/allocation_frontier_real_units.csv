@@ -1,0 +1,12 @@
+states_served,capacity_kt,value_rs_cr,share_below_avg_%,HHI,funded,lambda
+12,1137.6,7171.6,40.6,0.297,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0
+10,1137.6,7181.5,40.6,0.302,Andhra Pradesh;Punjab;Karnataka;Bihar;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.1
+7,1137.6,7303.5,38.0,0.331,Andhra Pradesh;Punjab;Bihar;Manipur;Goa;Puducherry;Arunachal Pradesh,0.2
+7,1137.6,7303.5,38.0,0.331,Andhra Pradesh;Punjab;Bihar;Manipur;Goa;Puducherry;Arunachal Pradesh,0.3
+7,1137.6,7406.0,20.0,0.349,Andhra Pradesh;Punjab;Bihar;Manipur;Goa;Puducherry;Arunachal Pradesh,0.4
+6,1137.6,7422.8,3.0,0.349,Rajasthan;Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5
+5,1137.6,7422.7,2.9,0.35,Rajasthan;Andhra Pradesh;Punjab;Manipur;Arunachal Pradesh,0.6
+4,1137.6,7416.1,2.2,0.352,Rajasthan;Andhra Pradesh;Punjab;Arunachal Pradesh,0.7
+3,1137.6,7414.1,0.0,0.36,Rajasthan;Andhra Pradesh;Punjab,0.8
+3,1137.6,7414.1,0.0,0.36,Rajasthan;Andhra Pradesh;Punjab,0.9
+3,1137.6,7414.1,0.0,0.36,Rajasthan;Andhra Pradesh;Punjab,1.0

@@ -1,0 +1,6 @@
+comparison,mean_|err|_xgb,mean_|err|_baseline,paired_t_p,wilcoxon_p
+XGBoost (growth-rate target) vs Naive persistence,220.9,345.6,0.0003,0.0
+XGBoost (growth-rate target) vs Historical mean-growth,220.9,200.5,0.3644,0.4206
+XGBoost (growth-rate target) vs Holt-Winters (per-state),220.9,202.6,0.4384,0.1018
+XGBoost (growth-rate target) vs Panel fixed-effects OLS,220.9,186.9,0.1239,0.135
+XGBoost (growth-rate target) vs XGBoost (level target),220.9,322.6,0.0007,0.0

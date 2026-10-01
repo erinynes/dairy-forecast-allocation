@@ -1,0 +1,9 @@
+model,MAE_kt,RMSE_kt,sMAPE_%
+"XGBoost, level target (CV-tuned)",322.6,716.4,16.8
+"XGBoost, growth-rate target (CV-tuned)",220.9,567.1,7.93
+Naive persistence,345.6,713.5,7.92
+Historical mean-growth,200.5,484.7,6.74
+Holt-Winters (per-state),202.6,517.8,8.38
+Panel fixed-effects OLS,186.9,467.4,9.84
+Damped-trend Holt (per-state),205.5,519.2,9.07
+"ARIMA(p,1,q) with drift (per-state)",203.8,494.9,8.19

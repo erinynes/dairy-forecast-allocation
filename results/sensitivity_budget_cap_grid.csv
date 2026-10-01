@@ -1,0 +1,106 @@
+states_served,capacity_kt,value_rs_cr,share_below_avg_%,HHI,funded,lambda,budget_share,cap_share,budget_rs_cr,jaccard_vs_base
+12,454.9,2840.8,33.9,0.154,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.1,0.2,91.8,1.0
+11,454.9,2796.7,43.9,0.19,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.1,0.3,91.8,0.92
+10,454.9,2776.0,53.9,0.249,Madhya Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.1,0.4,91.8,0.83
+9,454.9,2738.2,73.9,0.425,Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.1,0.6,91.8,0.75
+7,454.9,2796.2,100.0,0.769,Bihar;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.1,1.0,91.8,0.58
+12,682.1,4289.8,29.3,0.156,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.15,0.2,137.7,1.0
+11,682.1,4261.9,39.3,0.212,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.15,0.3,137.7,0.92
+11,682.1,4227.7,49.3,0.236,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.15,0.4,137.7,0.92
+11,682.1,4165.3,67.6,0.382,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.15,0.6,137.7,0.92
+11,682.1,4165.3,67.6,0.382,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.15,1.0,137.7,0.92
+13,909.9,5733.8,27.0,0.151,Rajasthan;Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.2,0.2,183.6,0.92
+12,909.9,5726.9,37.0,0.211,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.2,0.3,183.6,1.0
+11,909.9,5685.4,47.0,0.266,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.2,0.4,183.6,0.92
+11,909.9,5668.5,50.7,0.278,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.2,0.6,183.6,0.92
+11,909.9,5668.5,50.7,0.278,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.2,1.0,183.6,0.92
+13,1137.6,7174.3,25.6,0.158,Rajasthan;Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.25,0.2,229.5,0.92
+12,1137.6,7191.4,35.6,0.218,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.25,0.3,229.5,1.0
+12,1137.6,7171.6,40.6,0.297,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.25,0.4,229.5,1.0
+11,1137.6,7171.7,40.6,0.298,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.25,0.6,229.5,0.92
+11,1137.6,7171.7,40.6,0.298,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.25,1.0,229.5,0.92
+13,1364.8,8611.1,24.6,0.167,Rajasthan;Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.3,0.2,275.4,0.92
+12,1364.8,8657.4,33.8,0.226,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.3,0.3,275.4,1.0
+12,1364.8,8664.2,33.8,0.266,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.3,0.4,275.4,1.0
+11,1364.8,8671.1,33.8,0.346,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.3,0.6,275.4,0.92
+11,1364.8,8671.1,33.8,0.346,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.3,1.0,275.4,0.92
+13,1684.3,10630.3,25.4,0.181,Rajasthan;Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.4,0.2,367.2,0.92
+13,1819.7,11540.9,25.4,0.197,Rajasthan;Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.4,0.3,367.2,0.92
+13,1819.7,11616.1,25.4,0.245,Rajasthan;Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.4,0.4,367.2,0.92
+12,1819.7,11671.3,25.4,0.414,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.4,0.6,367.2,1.0
+11,1819.7,11673.6,25.4,0.445,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.4,1.0,367.2,0.92
+13,1900.3,12001.7,24.3,0.19,Rajasthan;Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.5,0.2,458.9,0.92
+13,2275.3,14415.1,20.3,0.213,Rajasthan;Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.5,0.3,458.9,0.92
+13,2275.3,14509.4,20.3,0.24,Rajasthan;Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.5,0.4,458.9,0.92
+12,2275.3,14668.6,20.3,0.404,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.5,0.6,458.9,1.0
+11,2275.3,14680.1,20.3,0.525,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,0.5,1.0,458.9,0.92
+9,454.9,2910.9,27.6,0.178,Rajasthan;Andhra Pradesh;Punjab;Bihar;Haryana;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.1,0.2,91.8,0.67
+8,454.9,2934.4,10.3,0.272,Rajasthan;Andhra Pradesh;Punjab;Bihar;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.1,0.3,91.8,0.75
+6,454.9,2973.3,7.4,0.338,Rajasthan;Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.1,0.4,91.8,1.0
+5,454.9,2997.3,7.4,0.469,Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.1,0.6,91.8,0.83
+1,454.9,3002.6,0.0,1.0,Andhra Pradesh,0.5,0.1,1.0,91.8,0.17
+9,682.1,4366.4,25.1,0.183,Rajasthan;Andhra Pradesh;Punjab;Bihar;Haryana;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.15,0.2,137.7,0.67
+8,682.1,4394.4,10.1,0.273,Rajasthan;Andhra Pradesh;Punjab;Bihar;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.15,0.3,137.7,0.75
+6,682.1,4454.1,5.0,0.344,Rajasthan;Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.15,0.4,137.7,1.0
+5,682.1,4496.6,5.0,0.484,Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.15,0.6,137.7,0.83
+1,682.1,4501.9,0.0,1.0,Andhra Pradesh,0.5,0.15,1.0,137.7,0.17
+9,909.9,5825.7,23.8,0.187,Rajasthan;Andhra Pradesh;Punjab;Bihar;Haryana;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.2,0.2,183.6,0.67
+8,909.9,5857.9,10.1,0.274,Rajasthan;Andhra Pradesh;Punjab;Bihar;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.2,0.3,183.6,0.75
+6,909.9,5938.4,3.7,0.347,Rajasthan;Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.2,0.4,183.6,1.0
+5,909.9,5999.8,3.7,0.493,Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.2,0.6,183.6,0.83
+1,909.9,6005.2,0.0,1.0,Andhra Pradesh,0.5,0.2,1.0,183.6,0.17
+9,1137.6,7285.0,23.0,0.189,Rajasthan;Andhra Pradesh;Punjab;Bihar;Haryana;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.25,0.2,229.5,0.67
+8,1137.6,7321.4,10.1,0.275,Rajasthan;Andhra Pradesh;Punjab;Bihar;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.25,0.3,229.5,0.75
+6,1137.6,7422.8,3.0,0.349,Rajasthan;Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.25,0.4,229.5,1.0
+5,1137.6,7503.1,3.0,0.497,Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.25,0.6,229.5,0.83
+1,1137.6,7508.4,0.0,1.0,Andhra Pradesh,0.5,0.25,1.0,229.5,0.17
+9,1364.8,8740.5,22.6,0.191,Rajasthan;Andhra Pradesh;Punjab;Bihar;Haryana;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.3,0.2,275.4,0.67
+8,1364.8,8781.4,10.0,0.276,Rajasthan;Andhra Pradesh;Punjab;Bihar;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.3,0.3,275.4,0.75
+6,1364.8,8903.5,2.5,0.351,Rajasthan;Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.3,0.4,275.4,1.0
+5,1364.8,9002.4,2.5,0.501,Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.3,0.6,275.4,0.83
+1,1364.8,9007.7,0.0,1.0,Andhra Pradesh,0.5,0.3,1.0,275.4,0.17
+11,1819.7,11646.3,22.4,0.189,Rajasthan;Andhra Pradesh;Punjab;Karnataka;Bihar;Haryana;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.4,0.2,367.2,0.55
+8,1819.7,11704.9,10.0,0.277,Rajasthan;Andhra Pradesh;Punjab;Bihar;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.4,0.3,367.2,0.75
+6,1819.7,11868.2,1.9,0.353,Rajasthan;Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.4,0.4,367.2,1.0
+5,1819.7,12005.0,1.9,0.506,Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.4,0.6,367.2,0.83
+1,1819.7,12010.3,0.0,1.0,Andhra Pradesh,0.5,0.4,1.0,367.2,0.17
+12,2275.3,14491.2,19.4,0.172,Rajasthan;Andhra Pradesh;Punjab;Karnataka;Bihar;Haryana;Jammu and Kashmir;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.5,0.2,458.9,0.5
+8,2275.3,14631.4,10.1,0.277,Rajasthan;Andhra Pradesh;Punjab;Bihar;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,0.5,0.3,458.9,0.75
+6,2275.3,14785.4,1.5,0.337,Rajasthan;Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.5,0.4,458.9,1.0
+6,2275.3,14973.7,1.5,0.481,Rajasthan;Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.5,0.6,458.9,1.0
+5,2275.3,15011.4,1.5,0.83,Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,0.5,1.0,458.9,0.83
+6,454.9,2912.8,19.9,0.198,Rajasthan;Andhra Pradesh;Punjab;Karnataka;Bihar;Haryana,1.0,0.1,0.2,91.8,0.5
+4,454.9,2922.9,10.3,0.279,Rajasthan;Andhra Pradesh;Punjab;Bihar,1.0,0.1,0.3,91.8,0.75
+3,454.9,2964.6,0.0,0.359,Rajasthan;Andhra Pradesh;Punjab,1.0,0.1,0.4,91.8,1.0
+2,454.9,3002.6,0.0,0.52,Andhra Pradesh;Punjab,1.0,0.1,0.6,91.8,0.67
+1,454.9,3002.6,0.0,1.0,Andhra Pradesh,1.0,0.1,1.0,91.8,0.33
+6,682.1,4368.9,19.9,0.199,Rajasthan;Andhra Pradesh;Punjab;Karnataka;Bihar;Haryana,1.0,0.15,0.2,137.7,0.5
+4,682.1,4382.9,10.1,0.28,Rajasthan;Andhra Pradesh;Punjab;Bihar,1.0,0.15,0.3,137.7,0.75
+3,682.1,4445.4,0.0,0.36,Rajasthan;Andhra Pradesh;Punjab,1.0,0.15,0.4,137.7,1.0
+2,682.1,4501.9,0.0,0.52,Andhra Pradesh;Punjab,1.0,0.15,0.6,137.7,0.67
+1,682.1,4501.9,0.0,1.0,Andhra Pradesh,1.0,0.15,1.0,137.7,0.33
+6,909.9,5828.2,20.0,0.199,Rajasthan;Andhra Pradesh;Punjab;Karnataka;Bihar;Haryana,1.0,0.2,0.2,183.6,0.5
+4,909.9,5846.4,10.1,0.28,Rajasthan;Andhra Pradesh;Punjab;Bihar,1.0,0.2,0.3,183.6,0.75
+3,909.9,5929.7,0.0,0.36,Rajasthan;Andhra Pradesh;Punjab,1.0,0.2,0.4,183.6,1.0
+2,909.9,6005.2,0.0,0.52,Andhra Pradesh;Punjab,1.0,0.2,0.6,183.6,0.67
+1,909.9,6005.2,0.0,1.0,Andhra Pradesh,1.0,0.2,1.0,183.6,0.33
+6,1137.6,7287.5,20.0,0.199,Rajasthan;Andhra Pradesh;Punjab;Karnataka;Bihar;Haryana,1.0,0.25,0.2,229.5,0.5
+4,1137.6,7309.9,10.1,0.28,Rajasthan;Andhra Pradesh;Punjab;Bihar,1.0,0.25,0.3,229.5,0.75
+3,1137.6,7414.1,0.0,0.36,Rajasthan;Andhra Pradesh;Punjab,1.0,0.25,0.4,229.5,1.0
+2,1137.6,7508.4,0.0,0.52,Andhra Pradesh;Punjab,1.0,0.25,0.6,229.5,0.67
+1,1137.6,7508.4,0.0,1.0,Andhra Pradesh,1.0,0.25,1.0,229.5,0.33
+6,1364.8,8743.6,20.0,0.2,Rajasthan;Andhra Pradesh;Punjab;Karnataka;Bihar;Haryana,1.0,0.3,0.2,275.4,0.5
+4,1364.8,8769.9,10.0,0.28,Rajasthan;Andhra Pradesh;Punjab;Bihar,1.0,0.3,0.3,275.4,0.75
+3,1364.8,8894.8,0.0,0.36,Rajasthan;Andhra Pradesh;Punjab,1.0,0.3,0.4,275.4,1.0
+2,1364.8,9007.7,0.0,0.52,Andhra Pradesh;Punjab,1.0,0.3,0.6,275.4,0.67
+1,1364.8,9007.7,0.0,1.0,Andhra Pradesh,1.0,0.3,1.0,275.4,0.33
+6,1819.7,11603.0,20.0,0.19,Rajasthan;Andhra Pradesh;Punjab;Karnataka;Bihar;Haryana,1.0,0.4,0.2,367.2,0.5
+4,1819.7,11693.4,10.0,0.28,Rajasthan;Andhra Pradesh;Punjab;Bihar,1.0,0.4,0.3,367.2,0.75
+3,1819.7,11859.4,0.0,0.36,Rajasthan;Andhra Pradesh;Punjab,1.0,0.4,0.4,367.2,1.0
+2,1819.7,12010.3,0.0,0.52,Andhra Pradesh;Punjab,1.0,0.4,0.6,367.2,0.67
+1,1819.7,12010.3,0.0,1.0,Andhra Pradesh,1.0,0.4,1.0,367.2,0.33
+8,2275.3,14488.8,17.5,0.172,Rajasthan;Madhya Pradesh;Andhra Pradesh;Punjab;Karnataka;Bihar;Haryana;Jammu and Kashmir,1.0,0.5,0.2,458.9,0.38
+4,2275.3,14619.9,10.1,0.28,Rajasthan;Andhra Pradesh;Punjab;Bihar,1.0,0.5,0.3,458.9,0.75
+3,2275.3,14776.7,0.0,0.344,Rajasthan;Andhra Pradesh;Punjab,1.0,0.5,0.4,458.9,1.0
+3,2275.3,14965.0,0.0,0.482,Rajasthan;Andhra Pradesh;Punjab,1.0,0.5,0.6,458.9,1.0
+2,2275.3,15016.7,0.0,0.833,Andhra Pradesh;Punjab,1.0,0.5,1.0,458.9,0.67

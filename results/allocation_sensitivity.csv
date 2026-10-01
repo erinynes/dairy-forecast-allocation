@@ -1,0 +1,8 @@
+scenario,budget_rs_cr,states_served,captured_kt,top_3_states_units,solved_ok
+Base case,229.5,6,1137.6,"Punjab (779), Andhra Pradesh (779), Rajasthan (332)",True
+Unit cost +20%,275.4,6,1137.6,"Punjab (779), Andhra Pradesh (779), Rajasthan (332)",True
+Unit cost -20%,183.6,6,1137.6,"Punjab (779), Andhra Pradesh (779), Rajasthan (332)",True
+Unit capacity +20%,191.3,6,1137.4,"Punjab (649), Andhra Pradesh (649), Rajasthan (277)",True
+Unit capacity -20%,286.8,6,1137.2,"Punjab (973), Andhra Pradesh (973), Rajasthan (416)",True
+Budget share +10pp (35%),321.3,6,1592.6,"Punjab (1090), Andhra Pradesh (1090), Rajasthan (489)",True
+Budget share -10pp (15%),137.7,6,682.1,"Punjab (467), Andhra Pradesh (467), Rajasthan (176)",True

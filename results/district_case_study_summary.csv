@@ -1,0 +1,4 @@
+state,granularity,variable,n_units,gini_latest,gini_earliest,top5_share_latest_%
+Maharashtra,district,milk production,35,0.605,0.56,54.3
+Punjab,district,"cow population (proxy, excl. buffalo)",22,0.245,,36.5
+Andhra Pradesh,"district (pre-2022, 13 units)",cattle+buffalo population (proxy),13,0.098,,45.8

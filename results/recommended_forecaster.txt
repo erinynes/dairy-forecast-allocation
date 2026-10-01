@@ -1,0 +1,9 @@
+ols_fe
+ols_fe: 186.9
+hist_growth: 200.5
+holt_winters: 202.6
+arima: 203.8
+damped: 205.5
+xgb_growth: 220.9
+xgb_level: 322.6
+naive: 345.6

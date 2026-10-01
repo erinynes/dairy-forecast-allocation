@@ -1,0 +1,29 @@
+reference,comparator,loss,mean_diff,iid_t_p,wilcoxon_p,cluster_t_p,cluster_t_p_holm,dm_hln_p,boot_ci_lo,boot_ci_hi
+Panel fixed-effects OLS,Historical mean-growth,abs_error,-13.5423,0.0356,0.1555,0.0741,0.3706,0.1124,-28.4901,-0.5686
+Panel fixed-effects OLS,Holt-Winters (per-state),abs_error,-15.6544,0.3676,0.851,0.4328,0.8716,0.5239,-58.1773,17.6826
+Panel fixed-effects OLS,"ARIMA(p,1,q) with drift",abs_error,-16.9082,0.3242,0.34,0.2905,0.8716,0.3935,-50.296,11.5431
+Panel fixed-effects OLS,Damped-trend Holt,abs_error,-18.5846,0.298,0.8817,0.3878,0.8716,0.4603,-63.1399,17.8314
+Panel fixed-effects OLS,"XGBoost, growth-rate target",abs_error,-33.9501,0.1239,0.135,0.1656,0.6625,0.5056,-85.985,1.7894
+Panel fixed-effects OLS,"XGBoost, level target",abs_error,-135.6552,0.0002,0.0,0.0123,0.0739,0.0352,-243.439,-50.5031
+Panel fixed-effects OLS,Naive persistence,abs_error,-158.6484,0.0,0.0,0.004,0.0278,0.0147,-261.6558,-66.3372
+Panel fixed-effects OLS,Historical mean-growth,abs_scaled_error,-0.0206,0.4705,0.4143,0.6178,0.6414,0.5656,-0.0991,0.0555
+Panel fixed-effects OLS,Holt-Winters (per-state),abs_scaled_error,-0.0977,0.1211,0.8644,0.2138,0.6414,0.0444,-0.2511,0.0458
+Panel fixed-effects OLS,"ARIMA(p,1,q) with drift",abs_scaled_error,-0.0633,0.2488,0.7594,0.2337,0.6414,0.182,-0.1629,0.039
+Panel fixed-effects OLS,Damped-trend Holt,abs_scaled_error,-0.163,0.0248,0.3998,0.0982,0.3928,0.0023,-0.3619,0.0025
+Panel fixed-effects OLS,"XGBoost, growth-rate target",abs_scaled_error,-0.1539,0.0117,0.0829,0.0076,0.0378,0.3576,-0.2663,-0.0532
+Panel fixed-effects OLS,"XGBoost, level target",abs_scaled_error,-2.2383,0.0001,0.0,0.006,0.0358,0.0581,-3.9726,-1.0807
+Panel fixed-effects OLS,Naive persistence,abs_scaled_error,-0.5567,0.0,0.0,0.0005,0.0032,0.0077,-0.8307,-0.2903
+"XGBoost, growth-rate target",Panel fixed-effects OLS,abs_error,33.9501,0.1239,0.135,0.1656,0.8282,0.5056,-2.0986,86.7932
+"XGBoost, growth-rate target",Historical mean-growth,abs_error,20.4079,0.3644,0.4206,0.3986,1.0,0.6726,-19.9396,69.963
+"XGBoost, growth-rate target",Holt-Winters (per-state),abs_error,18.2958,0.4384,0.1018,0.4337,1.0,0.5347,-29.9251,58.7858
+"XGBoost, growth-rate target","ARIMA(p,1,q) with drift",abs_error,17.0419,0.4136,0.851,0.3489,1.0,0.6283,-17.5381,53.7799
+"XGBoost, growth-rate target",Damped-trend Holt,abs_error,15.3655,0.5123,0.2093,0.5309,1.0,0.583,-34.886,58.6808
+"XGBoost, growth-rate target","XGBoost, level target",abs_error,-101.7051,0.0007,0.0,0.008,0.0558,0.0242,-179.6734,-39.5569
+"XGBoost, growth-rate target",Naive persistence,abs_error,-124.6983,0.0003,0.0,0.0108,0.0649,0.0262,-220.2748,-43.9227
+"XGBoost, growth-rate target",Panel fixed-effects OLS,abs_scaled_error,0.1539,0.0117,0.0829,0.0076,0.053,0.3576,0.0528,0.2629
+"XGBoost, growth-rate target",Historical mean-growth,abs_scaled_error,0.1333,0.0518,0.1976,0.0681,0.2725,0.4589,-0.0061,0.2679
+"XGBoost, growth-rate target",Holt-Winters (per-state),abs_scaled_error,0.0561,0.4681,0.1839,0.4633,0.9265,0.6631,-0.0917,0.1985
+"XGBoost, growth-rate target","ARIMA(p,1,q) with drift",abs_scaled_error,0.0906,0.209,0.355,0.1654,0.4963,0.4965,-0.0317,0.2135
+"XGBoost, growth-rate target",Damped-trend Holt,abs_scaled_error,-0.0092,0.9107,0.5037,0.9172,0.9265,0.9735,-0.1805,0.1582
+"XGBoost, growth-rate target","XGBoost, level target",abs_scaled_error,-2.0844,0.0002,0.0,0.0104,0.0621,0.078,-3.8106,-0.8784
+"XGBoost, growth-rate target",Naive persistence,abs_scaled_error,-0.4029,0.0001,0.0,0.0125,0.0626,0.0925,-0.7045,-0.1163

@@ -1,0 +1,16 @@
+states_served,capacity_kt,value_rs_cr,share_below_avg_%,HHI,funded,lambda,efficiency_proxy,equity_proxy,jaccard_vs_base
+12,1137.6,7171.6,40.6,0.297,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,E1 price x increment (base),"Q1 inverse per-capita, min-max (base)",1.0
+7,461.4,2836.8,100.0,0.749,Bihar;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,E1 price x increment (base),Q2 shortfall vs national average,0.58
+12,1137.6,7171.6,40.6,0.297,Madhya Pradesh;Andhra Pradesh;Karnataka;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.0,E1 price x increment (base),Q3 rank of inverse per-capita,1.0
+6,1137.6,7422.8,3.0,0.349,Rajasthan;Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,E1 price x increment (base),"Q1 inverse per-capita, min-max (base)",1.0
+7,1137.6,7303.5,38.0,0.331,Andhra Pradesh;Punjab;Bihar;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,E1 price x increment (base),Q2 shortfall vs national average,0.62
+11,1137.6,7160.7,40.6,0.297,Rajasthan;Andhra Pradesh;Karnataka;Bihar;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,E1 price x increment (base),Q3 rank of inverse per-capita,0.42
+8,1137.6,7498.7,3.8,0.335,Andhra Pradesh;Punjab;Haryana;Jammu and Kashmir;Sikkim;Manipur;Puducherry;Arunachal Pradesh,0.5,E2 price per litre only,"Q1 inverse per-capita, min-max (base)",0.56
+9,1137.6,7305.4,38.9,0.311,Andhra Pradesh;Punjab;Bihar;Jammu and Kashmir;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,E2 price per litre only,Q2 shortfall vs national average,0.5
+11,1137.6,7284.8,40.6,0.297,Madhya Pradesh;Andhra Pradesh;Bihar;Haryana;Jammu and Kashmir;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,E2 price per litre only,Q3 rank of inverse per-capita,0.31
+6,1137.6,7422.8,3.0,0.349,Rajasthan;Andhra Pradesh;Punjab;Manipur;Puducherry;Arunachal Pradesh,0.5,E3 increment volume only,"Q1 inverse per-capita, min-max (base)",1.0
+7,1137.6,7303.5,38.0,0.331,Andhra Pradesh;Punjab;Bihar;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,E3 increment volume only,Q2 shortfall vs national average,0.62
+10,1137.6,7135.8,40.6,0.302,Rajasthan;Andhra Pradesh;Karnataka;Bihar;Uttarakhand;Sikkim;Manipur;Goa;Puducherry;Arunachal Pradesh,0.5,E3 increment volume only,Q3 rank of inverse per-capita,0.45
+3,1137.6,7414.1,0.0,0.36,Rajasthan;Andhra Pradesh;Punjab,1.0,E1 price x increment (base),"Q1 inverse per-capita, min-max (base)",1.0
+6,1137.6,7506.0,1.5,0.34,Andhra Pradesh;Punjab;Haryana;Jammu and Kashmir;Sikkim;Manipur,1.0,E2 price per litre only,"Q1 inverse per-capita, min-max (base)",0.29
+3,1137.6,7414.1,0.0,0.36,Rajasthan;Andhra Pradesh;Punjab,1.0,E3 increment volume only,"Q1 inverse per-capita, min-max (base)",1.0
